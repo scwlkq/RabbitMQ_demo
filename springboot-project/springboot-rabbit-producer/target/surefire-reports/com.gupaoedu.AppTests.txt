@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.gupaoedu.AppTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 7.185 s <<< FAILURE! - in com.gupaoedu.AppTests
+contextLoads(com.gupaoedu.AppTests)  Time elapsed: 4.162 s  <<< ERROR!
+org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+	at com.gupaoedu.AppTests.contextLoads(AppTests.java:24)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at com.gupaoedu.AppTests.contextLoads(AppTests.java:24)
+

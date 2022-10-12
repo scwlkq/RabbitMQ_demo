@@ -1,0 +1,10 @@
+C:\Users\suncong\Desktop\RabbitMQ-代码\springboot-project\springboot-rabbit-producer\src\main\java\com\gupaoedu\controller\MerchantController.java
+C:\Users\suncong\Desktop\RabbitMQ-代码\springboot-project\springboot-rabbit-producer\src\main\java\com\gupaoedu\service\MerchantService.java
+C:\Users\suncong\Desktop\RabbitMQ-代码\springboot-project\springboot-rabbit-producer\src\main\java\com\gupaoedu\mapper\MerchantMapper.java
+C:\Users\suncong\Desktop\RabbitMQ-代码\springboot-project\springboot-rabbit-producer\src\main\java\com\gupaoedu\service\impl\MerchantServiceImpl.java
+C:\Users\suncong\Desktop\RabbitMQ-代码\springboot-project\springboot-rabbit-producer\src\main\java\com\gupaoedu\producer\RabbitSender.java
+C:\Users\suncong\Desktop\RabbitMQ-代码\springboot-project\springboot-rabbit-producer\src\main\java\com\gupaoedu\ProducerApp.java
+C:\Users\suncong\Desktop\RabbitMQ-代码\springboot-project\springboot-rabbit-producer\src\main\java\com\gupaoedu\util\LayuiData.java
+C:\Users\suncong\Desktop\RabbitMQ-代码\springboot-project\springboot-rabbit-producer\src\main\java\com\gupaoedu\entity\Merchant.java
+C:\Users\suncong\Desktop\RabbitMQ-代码\springboot-project\springboot-rabbit-producer\src\main\java\com\gupaoedu\util\Constant.java
+C:\Users\suncong\Desktop\RabbitMQ-代码\springboot-project\springboot-rabbit-producer\src\main\java\com\gupaoedu\config\RabbitConfig.java

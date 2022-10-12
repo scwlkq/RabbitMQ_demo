@@ -1,0 +1,7 @@
+com\gupaoedu\consumer\SecondConsumer.class
+com\gupaoedu\RabbitConsumerApp.class
+com\gupaoedu\consumer\FirstConsumer.class
+com\gupaoedu\consumer\FourthConsumer.class
+com\gupaoedu\config\RabbitConfig.class
+com\gupaoedu\consumer\ThirdConsumer.class
+com\gupaoedu\entity\Merchant.class

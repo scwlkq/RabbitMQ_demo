@@ -1,0 +1,11 @@
+com\gupaoedu\ProducerApp.class
+com\gupaoedu\util\Constant.class
+com\gupaoedu\mapper\MerchantMapper.class
+com\gupaoedu\service\impl\MerchantServiceImpl.class
+com\gupaoedu\controller\MerchantController.class
+com\gupaoedu\entity\Merchant.class
+com\gupaoedu\util\Constant$MERCHANT_STATE.class
+com\gupaoedu\util\LayuiData.class
+com\gupaoedu\producer\RabbitSender.class
+com\gupaoedu\service\MerchantService.class
+com\gupaoedu\config\RabbitConfig.class
